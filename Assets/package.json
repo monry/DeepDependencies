@@ -12,7 +12,9 @@
   "license": "MIT",
   "keywords": [],
   "category": "",
-  "dependencies": {},
+  "dependencies": {
+    "jp.cysharp.unirx": "https://github.com/monry/UniRx.git?path=/Assets#upm-v7.1.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/monry/DeepDependencies"
